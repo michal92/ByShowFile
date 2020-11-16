@@ -1,0 +1,32 @@
+﻿  EdycjazTXTdoHEX.cpp
+C:\Users\micha\source\repos\BytShowFile\ByteShow\EdycjazTXTdoHEX.cpp(226,17): warning C4244: "=": konwersja z "wchar_t" do "unsigned char", możliwa utrata danych
+C:\Users\micha\source\repos\BytShowFile\ByteShow\EdycjazTXTdoHEX.cpp(251,17): warning C4244: "=": konwersja z "wchar_t" do "unsigned char", możliwa utrata danych
+C:\Users\micha\source\repos\BytShowFile\ByteShow\EdycjazTXTdoHEX.cpp(282,20): warning C4244: "argument": konwersja z "wchar_t" do "unsigned char", możliwa utrata danych
+C:\Users\micha\source\repos\BytShowFile\ByteShow\EdycjazTXTdoHEX.cpp(151,10): warning C4101: "tylkoDaneHEX": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\EdycjazTXTdoHEX.cpp(154,25): warning C4101: "dana": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\EdycjazTXTdoHEX.cpp(300,21): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\EdycjazTXTdoHEX.cpp(442,7): warning C4101: "ok": lokalna zmienna, do której nie istnieje odwołanie
+  FilesMode.cpp
+  KonwersjHeksagonalna.cpp
+C:\Users\micha\source\repos\BytShowFile\ByteShow\KonwersjHeksagonalna.cpp(119,23): warning C4965: niejawne rzutowanie liczby całkowitej 0; użyj nullptr lub jawnego rzutowania
+  MyForm.cpp
+C:\Users\micha\source\repos\BytShowFile\ByteShow\MyForm2.h(211,20): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\MyForm2.h(237,20): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\MyForm.h(293,21): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\MyForm.h(309,21): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\MyForm.h(332,21): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\MyForm.h(391,20): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  MyForm2.cpp
+C:\Users\micha\source\repos\BytShowFile\ByteShow\MyForm2.h(211,20): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\MyForm2.h(237,20): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\micha\source\repos\BytShowFile\ByteShow\MyForm2.cpp(47,20): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  MyForm3.cpp
+  ZapisZTXTdoBINporownanie.cpp
+C:\Users\micha\source\repos\BytShowFile\ByteShow\ZapisZTXTdoBINporownanie.cpp(7,19): warning C4101: "obj": lokalna zmienna, do której nie istnieje odwołanie
+  ZmianaRozszerzenia.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generowanie kodu...
+C:\Users\micha\source\repos\BytShowFile\ByteShow\ZapisZTXTdoBINporownanie.cpp(16): warning C4700: użycie niezainicjowanej zmiennej lokalnej "czyPlikJestOk"
+C:\Users\micha\source\repos\BytShowFile\ByteShow\EdycjazTXTdoHEX.cpp(407): warning C4715: "EdycjazTXTdoHEX::ZapisBinPliku_Hex”: niewszystkie ścieżki kodu zwracają wartość
+  EdycjazTXTdoHEX.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  ByteShow.vcxproj -> C:\Users\micha\source\repos\BytShowFile\Debug\ByteShow.exe

@@ -1,0 +1,5 @@
+C:\Users\micha\source\repos\BytShowFile\ByteShow\Debug\ByteShow.vcxprojAssemblyReference.cache
+C:\Users\micha\source\repos\BytShowFile\ByteShow\Debug\ByteShow.MyForm.resources
+C:\Users\micha\source\repos\BytShowFile\ByteShow\Debug\ByteShow.MyForm2.resources
+C:\Users\micha\source\repos\BytShowFile\ByteShow\Debug\ByteShow.MyForm3.resources
+C:\Users\micha\source\repos\BytShowFile\ByteShow\Debug\ByteShow.vcxproj.GenerateResource.cache

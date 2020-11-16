@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+c:\users\micha\source\repos\bytshowfile\byteshow\myform2.h(209): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\micha\source\repos\bytshowfile\byteshow\myform2.h(235): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\micha\source\repos\bytshowfile\byteshow\myform.h(280): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\micha\source\repos\bytshowfile\byteshow\myform.h(296): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\micha\source\repos\bytshowfile\byteshow\myform.h(319): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\micha\source\repos\bytshowfile\byteshow\myform.h(373): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  MyForm2.cpp
+c:\users\micha\source\repos\bytshowfile\byteshow\myform2.h(209): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\micha\source\repos\bytshowfile\byteshow\myform2.h(235): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\micha\source\repos\bytshowfile\byteshow\myform2.cpp(47): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  ByteShow.vcxproj -> C:\Users\micha\source\repos\BytShowFile\Release\ByteShow.exe
